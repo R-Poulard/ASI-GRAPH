@@ -1,5 +1,5 @@
 # ASI-GRAPH
-Algorithm (adapted in Python) to find approximal sub-graph isomorphism between two graphs
+Algorithm (with his Python implementation) to find approximal sub-graph isomorphism between two graphs
 
 -This work was realized under the direction of Alain Denise at LISN during laboratory work in my first year of Master's at Paris-Saclay-
 
