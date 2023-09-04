@@ -1,5 +1,9 @@
 # ASI-GRAPH
 Algorithm (adapted in Python) to find approximal sub-graph isomorphism between two graphs
+-This work was realised under the direction of Alain Denise at LISN during a laboratory work in my first year of Master at Paris-Saclay-
+
+
+
 
 The degree of freedom can be split into three categories:
 Mismatch of labels
